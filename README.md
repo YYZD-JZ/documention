@@ -7,5 +7,7 @@ Today's idea is as follows:
 * Subscription & Award Points Features:
 * Recommendation Feature: History on purchasing, discounts, custmized preferences etc. (50%)
 
+kkk
+
 
 
